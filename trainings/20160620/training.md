@@ -22,3 +22,17 @@
 ### 次回やること
 
 - [Dialyzer](http://erlang.org/doc/apps/dialyzer/dialyzer_chapter.html) 導入してみたい
+
+## rsnni
+
+### やったこと
+
+- [ここらへん](http://erlang.org/doc/apps/tools/erlang_mode_chapter.html)参考にemacsの環境整えたり、[ここらへん](https://www.ibm.com/developerworks/jp/opensource/library/os-erlang1/)参考に竹内関数のモジュール作ったりした。
+
+### こまったこと
+
+- どこから手をつけようかと思って悩んでtak回して遊んでしまった。今は反省している。
+
+### 次回やること
+
+- [ここ](https://www.ymotongpoo.com/works/lyse-ja/index.html) を教えてもらったので、慣れるまですすめてみる
