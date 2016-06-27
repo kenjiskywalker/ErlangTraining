@@ -22,3 +22,14 @@
 ### 次回やること
 
 - [Dialyzer](http://erlang.org/doc/apps/dialyzer/dialyzer_chapter.html) 導入してみたい
+
+## 高木
+
+### やったこと
+- Learn you some Erlang for great goodの5章（関数の構文）
+
+### こまったこと
+- ,と;の違いがよくわからない
+
+### 次やりたいこと
+- 6章(型)と7章（再帰)
