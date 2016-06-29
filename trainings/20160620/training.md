@@ -36,3 +36,13 @@
 ### 次回やること
 
 - [ここ](https://www.ymotongpoo.com/works/lyse-ja/index.html) を教えてもらったので、慣れるまですすめてみる
+## 高木
+
+### やったこと
+- Learn you some Erlang for great goodの5章（関数の構文）
+
+### こまったこと
+- ,と;の違いがよくわからない
+
+### 次やりたいこと
+- 6章(型)と7章（再帰)
